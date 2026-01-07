@@ -2,6 +2,8 @@
 
 This project transcends basic reporting; it’s an immersive visual autopsy of supermarket sales dynamics across three distinct city branches. By leveraging the Power BI engine, we transmuted raw transactional logs into high-fidelity strategic insights.
 
+## Dashboard Preview
+![Sales Dashboard](/screenshots/Picture1.png)
 ---
 
 ## The Analytical Pipeline
